@@ -232,7 +232,8 @@ a {
 
 @media screen and  ( max-width: 590px) {
 
-
+.head {
+    width: 430px; }
 
 .photohead1 {
     margin-left: -100px;
